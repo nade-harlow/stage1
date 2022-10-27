@@ -25,7 +25,7 @@ func main() {
 
 func newUser() *slackUser {
 	return &slackUser{
-		SlackUsername: "Nade 1️⃣",
+		SlackUsername: "Nade",
 		Backend:       true,
 		Age:           24,
 		Bio:           "nil guy",
